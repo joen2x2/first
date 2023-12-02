@@ -1,0 +1,5 @@
+data = list(map(str, [12, 1, 2, 6, 7, 8, 3]))
+fin = "?".join(data)
+mlist = fin.split("?")
+print(fin)
+print(mlist)
